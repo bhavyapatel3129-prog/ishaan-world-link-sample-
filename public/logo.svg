@@ -1,0 +1,29 @@
+<svg viewBox="0 0 300 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sun in background -->
+  <circle cx="188" cy="85" r="44" fill="#F2B328" />
+  
+  <!-- Left Evergreen Tree -->
+  <g fill="#226942">
+    <path d="M85 78 L97 96 L91 97 L105 118 L98 119 L114 142 L106 143 L124 168 L46 168 L64 143 L56 142 L72 119 L65 118 L79 97 L73 96 Z" />
+    <path d="M78 168 L76 200 C80 200 86 199 92 199 L92 168 Z" />
+  </g>
+
+  <!-- Right Evergreen Tree -->
+  <g fill="#226942">
+    <path d="M195 78 L207 96 L201 97 L215 118 L208 119 L224 142 L216 143 L234 168 L156 168 L174 143 L166 142 L182 119 L175 118 L189 97 L183 96 Z" />
+    <path d="M188 168 L188 199 C194 199 200 200 204 200 L202 168 Z" />
+  </g>
+
+  <!-- Center Prominent Pine Tree -->
+  <g fill="#3EAD56">
+    <path d="M140 42 L154 65 L146 66 L164 92 L155 93 L175 122 L165 123 L188 155 L176 156 L198 188 L82 188 L104 156 L92 155 L115 123 L105 122 L125 93 L116 92 L134 66 L126 65 Z" />
+    <path d="M133 188 L130 201 C136 201 144 201 150 201 L147 188 Z" />
+  </g>
+
+  <!-- Ground arch line -->
+  <path d="M38 200 C100 196 180 196 242 201" stroke="#2C7D4D" stroke-width="4" stroke-linecap="round" />
+
+  <!-- Text -->
+  <text x="140" y="244" text-anchor="middle" fill="#32954F" font-family="system-ui, sans-serif" font-weight="700" font-size="28" letter-spacing="4">ISHΛΛN<tspan font-size="12" dy="-10">TM</tspan></text>
+  <text x="140" y="265" text-anchor="middle" fill="#32954F" font-family="system-ui, sans-serif" font-weight="500" font-size="12" letter-spacing="6">WORLDLINK LLP</text>
+</svg>
